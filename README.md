@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Vicky from Yogyakarta, Indonesia. I'm currently learning Web Development and Databse. I have experience working as a database administrator and experience in creating web applications connected to databases.
+I'm Vicky from Yogyakarta, Indonesia. I'm currently learning Web Development and Database. I have experience working as a database administrator and experience in creating web applications connected to databases.
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Vicky from Yogyakarta, Indonesia.<br>I'm currently learning Web Development, Web Design and Database.<br>I have experience working as a Database Administrator and experience in creating web applications connected to databases.
+I'm Vicky Galih Prasetyawan from Yogyakarta, Indonesia.<br>I'm currently learning Web Development, Web Design and Database.<br>I have experience working as a Database Administrator and experience in creating web applications connected to databases.
 
 
 ## 🌐 Socials:
